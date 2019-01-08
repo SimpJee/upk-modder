@@ -3,7 +3,7 @@
 ## From Forker
 Forked due to a dead project.   Nothing will be updated, added, or fixed.
 
-Download the ZIP from here (this is the original drive link from Google Code, it is not owned by myself):
+Download the ZIP from here (this is the original drive link from Google Code, it is not owned by myself.  If owner wants me to rehost this let me know):
 
 https://drive.google.com/folderview?id=0Bxrv8QdeQ-cyZlRuYWV0MU9fNEE&usp=sharing
 
