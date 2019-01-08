@@ -88,7 +88,7 @@ Installation
 
     Install anywhere. 
 
-    Adjust the UPKmodder v0.65\Config\upk_config.ini to reflect location and GUID of some local UPK's. 
+    Adjust the UPKmodder v0.65\Config\upk_config.ini to reflect location and GUID of some local UPK's.  [Forker note:  This was noted by creator as not required in later versions]
 
     Run UPKmodder.jar and to start a new Project. 
 
